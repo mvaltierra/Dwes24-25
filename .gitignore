@@ -1,0 +1,6 @@
+
+# Ignorar carpeta 1
+./Unit01
+
+# Ignorar carpeta videos
+./Unit02/videos/*.php
